@@ -1,2 +1,0 @@
-# A importancia da sintaxe
-
